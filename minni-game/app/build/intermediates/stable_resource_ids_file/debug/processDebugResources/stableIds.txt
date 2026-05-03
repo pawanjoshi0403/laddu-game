@@ -1,2 +1,0 @@
-com.example.minnigame:style/AppTheme = 0x7f020000
-com.example.minnigame:string/app_name = 0x7f010000

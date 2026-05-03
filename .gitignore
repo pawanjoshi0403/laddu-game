@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ local files
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local machine configuration
+local.properties
+
+# Build outputs
+*.apk
+*.aab
+
+# Duplicate local experiment folder
+minni-game/
