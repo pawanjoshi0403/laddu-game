@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tinylearners.app-debug-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/pawanjoshi/Documents/Codex/2026-04-28/i-want-to-make-a-2d/minni-game/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "103",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/pawanjoshi/Documents/Codex/2026-04-28/i-want-to-make-a-2d/minni-game/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                }
+            ]
+        }
+    ]
+}

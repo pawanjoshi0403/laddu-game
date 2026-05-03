@@ -1,0 +1,7 @@
+#Tue Apr 28 19:43:10 IST 2026
+base.0=/Users/pawanjoshi/Documents/Codex/2026-04-28/i-want-to-make-a-2d/minni-game/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/pawanjoshi/Documents/Codex/2026-04-28/i-want-to-make-a-2d/minni-game/app/build/intermediates/global_synthetics_dex/debugAndroidTest/generateDebugAndroidTestGlobalSynthetics/classes.dex
+path.0=0/classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
